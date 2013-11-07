@@ -7,8 +7,7 @@ accounts = {
 // escape them with backslashes (\) like this: 'pass\'word'
 
 
-'email': 'pass',
-'email2': 'pass2',
+'email':sebastien.deridder11@hotmail.com 'pass',seb2001
 
 
 }// don't delete this line!
